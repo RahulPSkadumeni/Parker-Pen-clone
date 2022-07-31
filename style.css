@@ -1,0 +1,280 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   background-color: #ffffff;
+}
+/* *{
+    margin: 0;
+} */
+header{
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3b3c43;
+}.logo{
+    width: 100%;
+    height: 45px;
+}.leftheader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 90px;
+}.rightheader{
+    padding-right: 90px;
+}.serachbar{
+    margin: 25px;
+    width: 400px;
+}.support{
+    padding: 20px;
+    background-image:url(./Screenshot.png);
+    background-position: center;
+}.header2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-left: 350px;
+}.header2 a{
+    padding-left: 10px;
+    text-decoration: none;
+    color: #33343b;
+    border: 2px, black solid;
+}
+.header2 a:hover{
+
+    background-color: #222324;
+    color: white;
+    cursor: pointer;
+}
+.imagescontainer1{
+    display: flex;
+   justify-content: space-around;
+    background: rgb(255, 255, 255)
+}.image1{
+   
+   display: flex;
+    width: 700px;
+    height: 600px;
+    position: relative;
+   margin-bottom: 10px;
+
+}.text1{ 
+    width: 550px;
+    height: 450px;
+    background: rgb(255, 255, 255);
+    justify-content: center;
+    padding-left: 160px;
+    margin-top: 10px;
+    padding-top: 120px;
+
+}
+.Discover-button{
+    
+    justify-items: left;
+   
+}.Discover{
+    
+    
+    height: 50px;
+    width: 150px;
+    background-color: #3b3c43;
+    color: rgb(255, 255, 255);
+
+}.imagescontainer2{
+    display: flex;
+    background-position:center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}.image2{
+
+   
+   display: flex;
+    width: 700px;
+    height: 600px;
+    position: relative;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-top: 20px;
+   
+}
+.text2{width: 680px;
+    height: 450px;
+    background: rgb(255, 255, 255);
+    justify-content: center; 
+    padding-left: 160px;
+    padding-top: 150px;
+    margin-top: 20px;
+   
+
+}
+.imagescontainer3{
+    display: flex;
+    background: rgb(255, 255, 255);
+  
+}.image3{
+   
+    display: flex;
+    width: 700px;
+    height: 600px;
+    position: relative;
+   margin-bottom: 10px;
+   margin-left: 10px;
+           
+   
+    
+
+}.text3{ width: 550px;
+    height: 450px;
+    background: rgb(255, 255, 255);
+    justify-content: center;
+    padding-left: 160px;
+    margin-top: 10px;
+    padding-top: 120px;
+    
+   
+
+
+}.textwapper2{
+    font-weight: lighter;
+}.images4{
+    position: relative;
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 0;
+}
+.text4{
+    position: absolute;
+
+}
+
+.text5{
+    height: 280px;
+    background-color: #ffffff;
+    font-weight: lighter;
+    text-align: center; 
+   font-size: 16px;
+}.center{
+    width: 600px;
+   margin-left: 300px;
+   padding-top: 30px;
+
+}
+.Sign-up{
+    height: 50px;
+    width: 100px;
+    margin: 0;
+    background-color: #3b3c43;
+    color: rgb(255, 255, 255);
+}.mail{
+    border-top: 1px solid #b4b4b486;
+    display: flex;
+    height: 180px;
+    justify-content: space-between;
+
+    border-bottom: 1px solid #b4b4b486;
+}.submit{
+    padding-top: 20px;
+    text-align: left;
+    padding-left: 170px;
+   width: 350px;
+   height: 50px;
+   align-content: center;
+vertical-align: middle;
+font-weight: lighter;
+
+}.social{
+    display: flex;
+    background: #ffffff;
+    align-content: flex-end;
+    padding-right: 100px;
+    padding-top: 20px;
+    justify-content: space-between;
+  
+}.serchbar{
+font-size: 10px;
+
+}.warning{
+    font-size: 16px;
+}.table{background-color: #ffffff;
+    display: flex;
+    justify-content: left;
+}.tablecontainer{
+    background-color: #ffffff;
+    display:flex ;
+    justify-content: space-between;
+    margin-left: 170px;
+    margin-right: 100px;
+}
+input{
+    padding: 15px;
+}.slideshow{
+    
+
+}.Discover2{
+    
+    
+    height: 50px;
+    width: 150px;
+    background-color: #f8f9fc;
+    color: rgb(15, 15, 15);
+    border: 2px #3b3c43;
+
+}
+
+.Discover2:hover{
+    background-color: #3b3c43;
+    color: white;
+    cursor: pointer;
+}
+.text4{
+    padding-top: 90px;
+    padding-left: 170px;
+    color: rgb(255, 248, 248);
+  
+}
+.text7{
+    padding-top: 90px;
+    padding-left: 170px;
+    color: rgb(255, 248, 248);
+    position: absolute;
+}
+.images5{
+    padding-top: 10px;
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 0;
+    position: relative;}
+
+.final{
+    padding-top: 5px;
+    margin-top: 30px;
+    display: flex;
+    background-color: #ffffff;
+}
+.logo2{
+  
+    padding-left: 50px;
+    padding-right: 200px;}
+   
+.logo3{
+
+padding-left:400px;
+
+}
+
+.rights{
+    font-weight: lighter;
+}
+.Discover:hover{
+    background-color: #3b3c43;
+    color: white;
+    cursor: pointer;
+}
+.about{
+    font-size: 12px;
+}
+.text{
+    font-size: 10px;
+}
